@@ -1,2 +1,8 @@
+/home/kleinbuchstaben/budget-manager/src/main/java/com/example/budgetmanager/db/DatabaseHelper.java
+/home/kleinbuchstaben/budget-manager/src/main/java/com/example/budgetmanager/Expenses/ExpensesRepository.java
 /home/kleinbuchstaben/budget-manager/src/main/java/com/example/budgetmanager/App.java
-/home/kleinbuchstaben/budget-manager/src/main/java/com/example/budgetmanager/User.java
+/home/kleinbuchstaben/budget-manager/src/main/java/com/example/budgetmanager/Expenses/ExpenseTag.java
+/home/kleinbuchstaben/budget-manager/src/main/java/com/example/budgetmanager/Expenses/ExpensesController.java
+/home/kleinbuchstaben/budget-manager/src/main/java/com/example/budgetmanager/Expenses/ExpensesModel.java
+/home/kleinbuchstaben/budget-manager/src/main/java/com/example/budgetmanager/User/UserModel.java
+/home/kleinbuchstaben/budget-manager/src/main/java/com/example/budgetmanager/Expenses/ExpensesService.java

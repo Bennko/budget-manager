@@ -1,1 +1,1 @@
-## Simple Java project implementing a budget manager desktop app
+## Simple Java project implementing a budget manager CL tool
